@@ -18,7 +18,7 @@ Postman es una herramienta que nos permite crear peticiones sobre APIs de una fo
 
 ## Despliegue
 **1) Clonar el proyecto**<br>
-* Clonar el repositorio desde github accediendo al link: https://github.com/Gabriel0407/delilah
+* Clonar el repositorio desde github accediendo al link: https://github.com/malks14/DelilahResto
 * Desde la consola ejecutar el comando:<br>
 `git clone https://github.com/malks14/DelilahResto`
 
